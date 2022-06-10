@@ -1,0 +1,3 @@
+azure_storage_connection: "DefaultEndpointsProtocol=https;AccountName=envydevsa;AccountKey=R1HYmGPwYIGopzFc9r39BJroJ9Vs4NssJxD3WsXwFp2jmo2uRdyF7fZcUUN5VbczsHkYHTGu3bPN+AStn9RdVw==;EndpointSuffix=core.windows.net"
+archive_dir: "C:/Users/noel.vega/Projects/azStorage/testing/containers/archive"
+faild_dir: "C:/Users/noel.vega/Projects/azStorage/testing/containers/faild_upload"
